@@ -1,0 +1,10 @@
+.div {
+    font-size: 50px;
+    background-color: aquamarine;
+    background-image: url(imgs/azulrosa.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    background-blend-mode: darken;
+}
